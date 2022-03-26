@@ -60,7 +60,7 @@ accuracy (0.732).
 After three rounds of optimizing the deep-learning neural network model, we were unable to meet the 
 75% accuracy performance target. You can see the summary of obtained accuracy for each model 
 below.
-![image1](Summary.jpg)
+![image1](Summary.JPG)
 We recommend exploring other modeling techniques to develop a classifier for this data. As the 
 application features are already relatively few in this dataset, feature selection techniques (PCA, t-SNE, 
 Lasso) could be explored but may still have accuracy less than 75%.
