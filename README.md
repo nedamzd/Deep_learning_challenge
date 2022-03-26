@@ -1,3 +1,4 @@
+## AlphabetSoupMLNN
 AlphabetSoupMLNN is a Neural Net machine learning model that predicts the success of a venture paid by Alphabet soup. The trained model is used to determine the future decisions of the company—only projects and how likely these ventures are to be a success. It will therefore predict which projects will receive any future funding from Alphabet Soup.
 
 Alphabet soup is a philanthropic foundation that aims at supporting endeavors that protect the environment, improve individual well being, and unify the world. It has donated over 10B dollars for life saving technologies and reforestation groups. 
